@@ -2200,9 +2200,6 @@ section,
   }
 }
 
-/*--------------------------------------------------------------
-# Portfolio Section
---------------------------------------------------------------*/
 .portfolio .portfolio-filters {
   display: flex;
   justify-content: center;
@@ -2347,9 +2344,6 @@ section,
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
-/*--------------------------------------------------------------
-# Portfolio Details Section
---------------------------------------------------------------*/
 .portfolio-details {
   --section-spacing: 2.5rem;
 }
